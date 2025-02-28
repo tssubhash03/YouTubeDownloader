@@ -78,7 +78,6 @@ This project is **open-source** under the **MIT License**. Feel free to modify a
 ✅ **Enhanced structure** with headers and bullet points for clarity.  
 
 ---
-This version is **ready to push to GitHub**! 🚀 Let me know if you need further refinements.
 
 
 
